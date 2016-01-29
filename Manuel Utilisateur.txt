@@ -1,0 +1,9 @@
+L’application est  développée par le binôme Derbali Jalel et Triki Sami de l’école National d’Ingénieurs de l’Université de Gabés.
+Cette application peut donc être utilisée par toute personne intéressée par celui-ci. Il est laissé le libre choix de modifier, d’enrichir et de réutiliser cette application. 
+Ce manuel explique le fonctionnement et l’utilisation du l’application réalisé. 
+Il est peut être utilisé pour plusieurs étapes comme par exemple : connexion, réception, performances…
+L’interface donc se compose de 4 blocs :
+	Bloc 1 : c’est la partie d’entrée utilisateur qui contient toutes les commandes qui vont être transmises au robot (contrôle de bras, direction de robot, vitesse des moteurs, torche, laser pointer, position de servomoteur, mode fonctionnement de robot) et les commandes inter application (ordre vocal, joystick, sonar radar).
+	Bloc 2 : vidéo panel : réception vidéo à travers la caméra IP avec la possibilité de zoom et apprendre des photos.
+	Bloc 3 : Dans cette partie il y a les informations relatives aux robots tels que la valeur de température, gaz, pitch, roll, capteur distance, sonar, voltage de batterie (une barre de progression affichera l’état de batterie). Cette partie est indépendante de l’utilisateur. Lorsque le robot est connecté, elle fonctionne automatiquement.
+	Bloc 4 : partie d’analyse des données reçues tel que l’évolution de la température et concentration de gaz en fonction de temps et la cartographie.
